@@ -6,17 +6,15 @@ outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
 
 # Hướng dẫn đóng góp cho osu! wiki
 
-Cảm ơn bạn đã quan tâm đến việc làm cho osu! wiki tốt hơn! Hướng dẫn nhanh này  dành cho những ai chưa từng làm việc với GitHub, hay với luồng quy trình đóng góp osu! wiki trước đây. Nếu bạn đã có kinh nghiệm sử dụng GitHub, bạn có thể bỏ qua hướng dẫn này và làm theo luồng "feature-branch" thông dụng để cập nhật các nội dung trong repository.
+Cảm ơn bạn đã quan tâm đến việc làm cho osu! wiki tốt hơn! Bài viết này nói về quá trình đóng góp từng bước một. Nếu như bạn đã làm quen với GitHub, hãy tự nhiên làm theo luồng "feature-branch" thông dụng để đề nghị sửa đổi và bỏ qua đến phần [Tự kiểm tra](#Tự kiểm tra).
 
 Nếu bạn thắc mắc hay cần giúp đỡ ở bất cứ phần nào, hãy gửi một tin nhắn vào kênh `#osu-wiki` trong [osu!dev Discord](https://discord.gg/ppy).
 
 ## Bắt đầu
 
-### Đăng ký
+### Vị trí bạn muốn làm
 
-1. [Đăng ký](https://github.com/join) một tài khoản GitHub nếu bạn chưa có.
-2. [Đăng nhập](https://github.com/login).
-3. Tiến tới bước [Fork](#fork).
+Nếu bạn muốn đóng góp, nhưng lại không biết bắt đầu từ đâu, [Quản lý § Công việc thường ngày của osu! wiki](/wiki/osu!_wiki/Maintenance#routines) có những công việc cần được làm thường xuyên, và cách để giúp đỡ những người chỉnh sửa wiki. Để làm quen với định dạng ngôn ngữ dùng trên wiki, xem [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) của Adam Pritchard.
 
 ### Fork
 
