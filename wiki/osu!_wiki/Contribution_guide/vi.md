@@ -14,27 +14,33 @@ Nếu bạn thắc mắc hay cần giúp đỡ ở bất cứ phần nào, hãy 
 
 ### Vị trí bạn muốn làm
 
-Nếu bạn muốn đóng góp, nhưng lại không biết bắt đầu từ đâu, [Quản lý § Công việc thường ngày của osu! wiki](/wiki/osu!_wiki/Maintenance#routines) có những công việc cần được làm thường xuyên, và cách để giúp đỡ những người chỉnh sửa wiki. Để làm quen với định dạng ngôn ngữ dùng trên wiki, xem [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) của Adam Pritchard.
+Nếu bạn muốn đóng góp, nhưng lại không biết bắt đầu từ đâu, [Quản lý § Công việc thường ngày của osu! wiki](/wiki/osu!_wiki/Maintenance#routines) có những công việc cần được làm thường xuyên, và cách để giúp đỡ những người chỉnh sửa wiki. Để làm quen với định dạng ngôn ngữ dùng trên wiki, xem [Markdown Cheatsheet(Mẹo Markdown)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) của Adam Pritchard.
 
-### Fork
+## Chỉnh sửa wiki
 
-1. Vào [repo `osu-wiki`](https://github.com/ppy/osu-wiki).
+*Xem tóm tắt quá trình đóng góp tại: [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/quickstart/github-flow)*
 
-2. Nhấn vào `Fork`.
+Các bài viết của osu! wiki được lưu trữ tại [GitHub][osu_wiki]. Các bước đóng góp như sau:
 
-   ![](img/fork.jpg)
+0. [Tạo](https://github.com/signup) một tài khoản GitHub.
+1. Mở [`ppy/osu-wiki`][osu_wiki] repo và bấm `Fork` ở góc phải bên trên để tạo một bản sao của wiki có thể chỉnh sửa. Để quay lại fork của bạn, đi tới [`ppy/osu-wiki`][osu_wiki] và lại bấm `Fork`.
 
-3. Nhấn vào `Fork` lần nữa để đi tới fork của bạn.
+  - Nếu như bạn đã tạo một fork từ một thời gian trước, đồng bộ nó theo [Các gợi ý để làm công việc của bạn tốt hơn § đồng bộ fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork).
 
 4. Nếu bạn thấy gì đó tương tự bức ảnh phía dưới có nghĩa là bạn đã tạo một fork của `ppy/osu-wiki` repo và bạn đang ở fork của bạn.
 
-   ![](img/forked.jpg)
+  - [GitHub chỉnh sửa trên web](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (trực tuyến, không cần cài đặt).
+  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (không trực tuyến, có thể điều khiển nhiều thứ hơn).
 
-5. Tiến tới bước [Đồng bộ fork của bạn](#đồng-bộ-fork-của-bạn).
+## Tự kiểm tra
 
-### Đồng bộ fork của bạn
+Khi bạn đã chỉnh sửa xong, hãy đọc thử tài liệu của bạn. Kiểm tra những điều sau:
 
-1. Vào fork `osu-wiki` của bạn.
+- **Cảm xúc truyền tải**: các bài viết osu! wiki, trừ trường hợp đặc biệt, không được bộc lộ cảm xúc.
+- **Bố cục và ngữ pháp**: bài viết phải rõ ràng, dễ hiểu, và không quá cao siêu cho người đọc. Be consistent and avoid overcomplicated or abrupt sentences. Use editors with built-in spell checkers, such as [Google Docs](https://docs.google.com), to expose typos and grammatical or syntax errors.
+- **[Content parity](/wiki/Article_styling_criteria/Writing#content-parity)**: translations must contain the same information as the original articles (differences in punctuation, wording, or formatting are obviously expected). Instead of changing the contents of the translation, [open an issue](https://github.com/ppy/osu-wiki/issues/new) or an extra pull request for the original if you feel it is incomplete, inaccurate, or outdated.
+- **Structure and formatting**: preview your article with a tool such as [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) to make sure it looks exactly how you wanted it to be.<!-- TODO(TicClick): we really need an article on markup features specific to the osu! wiki-->
+- **All images and other non-text files** must be [under 1 megabyte](/wiki/Article_styling_criteria/Formatting#file-size). **Screenshots** need to use the default osu! 
 
 2. Ở trên các tệp, sẽ có một dòng chữ chỉ cho bạn rằng branch (nhánh) của bạn đang "behind" (chậm), "ahead" (nhanh), hoặc "even" (bằng) với `ppy:master`. Nếu như nó ghi "behind" hoặc "ahead and behind" với bất cứ số lượng "commits behind" nào, branch của bạn đã bị lỗi thời.
 
