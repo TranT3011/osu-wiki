@@ -14,7 +14,7 @@ Nếu bạn thắc mắc hay cần giúp đỡ ở bất cứ phần nào, hãy 
 
 ### Vị trí bạn muốn làm
 
-Nếu bạn muốn đóng góp, nhưng lại không biết bắt đầu từ đâu, [Quản lý § Công việc thường ngày của osu! wiki](/wiki/osu!_wiki/Maintenance#routines) có những công việc cần được làm thường xuyên, và cách để giúp đỡ những người chỉnh sửa wiki. Để làm quen với định dạng ngôn ngữ dùng trên wiki, xem [Markdown Cheatsheet(Mẹo Markdown)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) của Adam Pritchard.
+Nếu bạn muốn đóng góp, nhưng lại không biết bắt đầu từ đâu, [Quản lý § Công việc thường ngày của osu! wiki](/wiki/osu!_wiki/Maintenance#routines) có những công việc cần được làm thường xuyên, và cách để giúp đỡ những người chỉnh sửa wiki. Để làm quen với định dạng chữ viết(độ dày, vị trí chữ viết, ...) dùng trên wiki, xem [Markdown Cheatsheet(Mẹo Markdown)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) của Adam Pritchard.
 
 ## Chỉnh sửa wiki
 
@@ -39,8 +39,8 @@ Khi bạn đã chỉnh sửa xong, hãy đọc thử tài liệu của bạn. Ki
 - **Cảm xúc truyền tải**: các bài viết osu! wiki, trừ trường hợp đặc biệt, không được bộc lộ cảm xúc.
 - **Bố cục và ngữ pháp**: bài viết phải rõ ràng, dễ hiểu, và không quá cao siêu cho người đọc. Lời nói của bạn phải rõ ràng, đi thẳng vào vấn đề và tránh phức tạp hoá vấn đề hoặc đột ngột kết thúc câu hay không có kết luận rõ ràng. Sử dụng phần mềm chỉnh sửa có tính năng sửa chính tả, ví dụ như [Google Docs](https://docs.google.com), để tìm ra lỗi đánh và ngữ pháp hoặc cú pháp lỗi.
 - **[Sự đồng nhất nội dung](/wiki/Article_styling_criteria/Writing#content-parity)**: các bản dịch phải chứa nội dung giống nhau với bài viết gốc (sự thay đổi là cách chấm câu, diễn đạt, hay bố cục hiển nhiên được lường trước). Thay vì thay đổi nội dung của bản dịch, [mở một issue](https://github.com/ppy/osu-wiki/issues/new) hoặc bổ sung thêm một pull request cho pull request gốc nếu bạn cảm thấy chưa hoàn thiện, chưa chính xác, hoặc lỗi thời.
-- **Structure and formatting**: preview your article with a tool such as [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) to make sure it looks exactly how you wanted it to be.<!-- TODO(TicClick): we really need an article on markup features specific to the osu! wiki-->
-- **All images and other non-text files** must be [under 1 megabyte](/wiki/Article_styling_criteria/Formatting#file-size). **Screenshots** need to use the default osu! 
+- **Bố cục và định dạng**: xem trước bài viết với những công cụ như [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) để chắc chắn nó nhìn như bạn muốn.
+- **Tất cả hình ảnh và các phương tiện không phải chữ viết** phải dưới [1 megabyte](/wiki/Article_styling_criteria/Formatting#file-size). **Ảnh chụp màn hình** phải dùng skin mặc định của osu! và [những thiết lập cụ thể](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay), bao gồm 1280x720 là độ phân giải cao nhất.
 
 2. Ở trên các tệp, sẽ có một dòng chữ chỉ cho bạn rằng branch (nhánh) của bạn đang "behind" (chậm), "ahead" (nhanh), hoặc "even" (bằng) với `ppy:master`. Nếu như nó ghi "behind" hoặc "ahead and behind" với bất cứ số lượng "commits behind" nào, branch của bạn đã bị lỗi thời.
 
