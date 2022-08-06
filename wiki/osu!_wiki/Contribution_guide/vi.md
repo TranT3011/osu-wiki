@@ -42,10 +42,11 @@ Khi bạn đã chỉnh sửa xong, hãy đọc thử tài liệu của bạn. Ki
 - **Bố cục và định dạng**: xem trước bài viết với những công cụ như [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) để chắc chắn nó nhìn như bạn muốn.
 - **Tất cả hình ảnh và các phương tiện không phải chữ viết** phải dưới [1 megabyte](/wiki/Article_styling_criteria/Formatting#file-size). **Ảnh chụp màn hình** phải dùng skin mặc định của osu! và [những thiết lập cụ thể](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay), bao gồm 1280x720 là độ phân giải cao nhất.
 
-For more specific writing and formatting standards, refer to the [article styling criteria](/wiki/Article_styling_criteria). It's not recommended to read it all at once — a reviewer will likely point out if something needs to be corrected either way
-   ![](img/fork-even.jpg "OK \(không có commit và không bị lỗi thời\)")
+Những cách viết đặc biệt và định dạng chuẩn, tham khảo [cách viết tiêu chuẩn](/wiki/Article_styling_criteria). Đọc hết tất cả không được khuyến khích — một người đánh giá sẽ có thể chỉ ra nếu có gì đó cần được sửa lại.
 
-   ![](img/fork-ahead.jpg "OK \(đây là các commit của bạn\)")
+## Pull request
+
+After the changes are double-checked, committed, and pushed to your fork, you need to propose them to the wiki maintainers by opening a pull request:
 
    ![](img/fork-behind.jpg "Có vẻ không ổn \(branch của bạn bị lỗi thời\)")
 
