@@ -42,8 +42,7 @@ Khi bạn đã chỉnh sửa xong, hãy đọc thử tài liệu của bạn. Ki
 - **Bố cục và định dạng**: xem trước bài viết với những công cụ như [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) để chắc chắn nó nhìn như bạn muốn.
 - **Tất cả hình ảnh và các phương tiện không phải chữ viết** phải dưới [1 megabyte](/wiki/Article_styling_criteria/Formatting#file-size). **Ảnh chụp màn hình** phải dùng skin mặc định của osu! và [những thiết lập cụ thể](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay), bao gồm 1280x720 là độ phân giải cao nhất.
 
-2. Ở trên các tệp, sẽ có một dòng chữ chỉ cho bạn rằng branch (nhánh) của bạn đang "behind" (chậm), "ahead" (nhanh), hoặc "even" (bằng) với `ppy:master`. Nếu như nó ghi "behind" hoặc "ahead and behind" với bất cứ số lượng "commits behind" nào, branch của bạn đã bị lỗi thời.
-
+For more specific writing and formatting standards, refer to the [article styling criteria](/wiki/Article_styling_criteria). It's not recommended to read it all at once — a reviewer will likely point out if something needs to be corrected either way
    ![](img/fork-even.jpg "OK \(không có commit và không bị lỗi thời\)")
 
    ![](img/fork-ahead.jpg "OK \(đây là các commit của bạn\)")
