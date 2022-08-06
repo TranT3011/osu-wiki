@@ -46,9 +46,11 @@ Những cách viết đặc biệt và định dạng chuẩn, tham khảo [các
 
 ## Pull request
 
-After the changes are double-checked, committed, and pushed to your fork, you need to propose them to the wiki maintainers by opening a pull request:
+Sau khi các thay đổi được kiểm tra, lưu, và đăng lên fork, bạn cần đề xuất chúng đến những người quản lý wiki bằng cách mở một pull request:
 
-   ![](img/fork-behind.jpg "Có vẻ không ổn \(branch của bạn bị lỗi thời\)")
+1. In **your fork** of the osu! wiki, find the dropdown which says `master↓`, and select the branch with your changes.
+2. Click the `Contribute↓` button and select `Open pull request`.
+3. Fill in the details according to [Best practices § Opening a pull request](/wiki/osu!_wiki/Contribution_guide/Best_practices#opening-a-pull-request) and click `Create pull request`.
 
    ![](img/fork-ahead-behind.jpg "Có vẻ không ổn \(branch của bạn bị lỗi thời kèm theo các commit của bạn\)")
 
