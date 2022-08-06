@@ -50,11 +50,11 @@ Sau khi các thay đổi được kiểm tra, lưu, và đăng lên fork, bạn 
 
 1. Trong **fork** từ osu! wiki, tìm `master↓`, và chọn branch có nhứng thay đổi của bạn.
 2. Bấm `Contribute↓` rồi chọn `Open pull request`.
-3. Điền thông tin dựa theo [Best practices § Opening a pull request](/wiki/osu!_wiki/Contribution_guide/Best_practices#opening-a-pull-request) and click `Create pull request`.
+3. Điền thông tin dựa theo [Các gợi ý để làm công việc của bạn tốt hơn § đồng bộ fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#opening-a-pull-request) và bấm `Create pull request`.
 
-   ![](img/fork-ahead-behind.jpg "Có vẻ không ổn \(branch của bạn bị lỗi thời kèm theo các commit của bạn\)")
+## Đánh giá
 
-3. Đây không phải vấn đề quá to tát, ***nếu*** bạn không sửa đổi các tệp đã bị sửa bời người khác.
+All changes to the osu! wiki are moderated. During that stage, other collaborators point out possible mistakes and ways to fix them, either in free form, or by suggesting direct edits to the pull request. Just like with any other peer review, you need to address the comments by [applying the suggestions](/wiki/osu!_wiki/Contribution_guide/Best_practices#applying-reviews), or by explaining why you'd rather keep things your way.
 
 4. Để xử lý vấn đề này, xem phần [Branch của tôi bị lỗi thời!](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork) trong trang Các vấn đề hay gặp.
 
