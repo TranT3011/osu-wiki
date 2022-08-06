@@ -1,4 +1,4 @@
----
+8---
 no_native_review: true
 outdated_translation: true
 outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
@@ -6,7 +6,7 @@ outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
 
 # Hướng dẫn đóng góp cho osu! wiki
 
-Cảm ơn bạn đã quan tâm đến việc làm cho osu! wiki tốt hơn! Bài viết này nói về quá trình đóng góp từng bước một. Nếu như bạn đã làm quen với GitHub, hãy tự nhiên làm theo luồng "feature-branch" thông dụng để đề nghị sửa đổi và bỏ qua đến phần [Tự kiểm tra](#Tự kiểm tra).
+Cảm ơn bạn đã quan tâm đến việc làm cho osu! wiki tốt hơn! Bài viết này nói về quá trình đóng góp từng bước một. Nếu như bạn đã làm quen với GitHub, hãy tự nhiên làm theo luồng "feature-branch" thông dụng để đề nghị sửa đổi và bỏ qua đến phần [Tự kiểm tra](## Tự kiểm tra).
 
 Nếu bạn thắc mắc hay cần giúp đỡ ở bất cứ phần nào, hãy gửi một tin nhắn vào kênh `#osu-wiki` trong [osu!dev Discord](https://discord.gg/ppy).
 
