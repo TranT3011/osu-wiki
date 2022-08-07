@@ -53,7 +53,7 @@ Sau khi các thay đổi được kiểm tra, lưu, và đăng lên fork, bạn 
 3. Điền thông tin dựa theo [Các gợi ý để làm công việc của bạn tốt hơn § đồng bộ fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#opening-a-pull-request) và bấm `Create pull request`.
 
 ## Đánh giá
-Những thay đổi đến osu! wiki đều được kiểm duyệt. Trong giai đoạn đó, những người đồng hành sẽ chỉ ra những lỗi và cách để sửa chúng, có thể qua bình luận, hoặc trực tiếp gợi ý chỉnh sửa tới pull request. Giống với những đánh giá thường, you need to address the comments by [applying the suggestions](/wiki/osu!_wiki/Contribution_guide/Best_practices#applying-reviews), or by explaining why you'd rather keep things your way.
+Những thay đổi đến osu! wiki đều được kiểm duyệt. Trong giai đoạn đó, những người đồng hành sẽ chỉ ra những lỗi và cách để sửa chúng, có thể qua bình luận, hoặc trực tiếp gợi ý chỉnh sửa tới pull request. Giống với những đánh giá thường, bạn cần [sửa theo đánh giá](/wiki/osu!_wiki/Contribution_guide/Best_practices#applying-reviews), hoặc giải thích tại sao bạn muốn làm theo cách của bạn.
 
 4. Để xử lý vấn đề này, xem phần [Branch của tôi bị lỗi thời!](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork) trong trang Các vấn đề hay gặp.
 
