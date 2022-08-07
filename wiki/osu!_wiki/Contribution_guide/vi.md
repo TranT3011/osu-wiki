@@ -57,7 +57,10 @@ Những thay đổi đến osu! wiki đều được kiểm duyệt. Trong giai 
 
 Nếu như không ai kiểm tra sau vài ngày, hãy thử:
 
-5. Sau khi hoàn thành bước 4, tiến tới [Sửa trực tuyến hoặc cục bộ](#sửa-trực-tuyến-hoặc-cục-bộ).
+- Hãy chắc chắn bạn đã sửa theo đánh giá — people may be waiting on your responses.
+- Ask other osu! wiki editors in the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server) (`#osu-wiki` channel) or in the GitHub comments.
+- To get help with the translation, check a couple of merged pull requests for your language and get in touch with their reviewers and/or authors ([example GitHub query](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BID%5D)).
+- Ask your friends for a quick look!
 
 ## Sửa trực tuyến hoặc cục bộ
 
