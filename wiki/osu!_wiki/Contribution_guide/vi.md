@@ -55,7 +55,7 @@ Sau khi các thay đổi được kiểm tra, lưu, và đăng lên fork, bạn 
 ## Đánh giá
 Những thay đổi đến osu! wiki đều được kiểm duyệt. Trong giai đoạn đó, những người đồng hành sẽ chỉ ra những lỗi và cách để sửa chúng, có thể qua bình luận, hoặc trực tiếp gợi ý chỉnh sửa tới pull request. Giống với những đánh giá thường, bạn cần [sửa theo đánh giá](/wiki/osu!_wiki/Contribution_guide/Best_practices#applying-reviews), hoặc giải thích tại sao bạn muốn làm theo cách của bạn.
 
-If no one has checked in after a couple of days, try the following:
+Nếu như không ai kiểm tra sau vài ngày, hãy thử:
 
 5. Sau khi hoàn thành bước 4, tiến tới [Sửa trực tuyến hoặc cục bộ](#sửa-trực-tuyến-hoặc-cục-bộ).
 
